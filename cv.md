@@ -2,7 +2,7 @@ __CV__
 
 Bachana Baliashvili
 
-contact info mail: bachanabaiashvili.999@gmail.com
+contact info mail: bachanabaiashvili.99@gmail.com
 
 __SKILLS__
 
@@ -14,3 +14,5 @@ __SKILLS__
 * HTML CSS Javascript
 
 Education : [business and technology university - BTU ](btu.edu.ge)
+
+English Level - b2
